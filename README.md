@@ -1,4 +1,4 @@
-- Dictionary for a little programmer:
+### Dictionary for a little programmer:
     1. search expllanation by apellation,
     2. add new definition,
     3. show all apellations alphabetically,
